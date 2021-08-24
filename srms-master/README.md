@@ -8,8 +8,6 @@ video demo - https://youtu.be/tm0XTuFnzx8
 * Add the database file 
 
 ### contact ###
-projectworldsofficial@gmail.com
-
-more projects website - https://projectworlds.in
+Dhruv.20scse2030043galgotiasuniversity.edu.in
 
 
